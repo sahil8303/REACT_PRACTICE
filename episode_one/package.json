@@ -1,0 +1,23 @@
+{
+  "name": "episode_one",
+  "version": "1.0.0",
+  "description": "this is episode one of react learing phase",
+  "homepage": "https://github.com/sahil8303/REACT_PRACTICE#readme",
+  "bugs": {
+    "url": "https://github.com/sahil8303/REACT_PRACTICE/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahil8303/REACT_PRACTICE.git"
+  },
+  "license": "ISC",
+  "author": "sahil kawadse",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
